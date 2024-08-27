@@ -1,3 +1,4 @@
+#CollegeCompass
 Welcome to College Compass, a dynamic web platform designed to enhance the daily lives of college students by addressing real-life challenges faced on campus. Built using modern web technologies like React, HTML, CSS, JavaScript, and Node.js, College Compass offers a range of features that make navigating college life easier, especially for newcomers.
 
 A Dynamic College Gallery
