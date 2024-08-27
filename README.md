@@ -13,10 +13,16 @@ In a bustling college environment, students often face challenges such as losing
 ### **Lost and Found**
 
 Have you ever misplaced your pendrive, notebook, or even your keys in the vast college campus? With the Lost and Found feature, you can report lost items and notify the entire campus community. This increases the chances of recovering your belongings as anyone who finds them can quickly get in touch with you through the platform.
+ 🦸 Tech Stack
+ Built with Vite and React.
+ Firebase and Firestore for backend services.
 
 ### **Sell and Sold**
 
 College life is expensive, and not every student can afford to buy brand-new items. The Sell and Sold feature allows students to buy and sell used items within the campus community. Whether you’re looking to sell an old laptop or buy second-hand textbooks, this platform makes it easy and secure to trade belongings with fellow students. 
+🦸 Tech Stack 
+Client: React, Context, CSS
+Server: Firebase 
 
 ### **Community Alerts**
 
